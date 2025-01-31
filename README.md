@@ -12,7 +12,7 @@ Before running this application, make sure you have the following installed:
 
 1. Clone the repository
 ```
-git clone https://github.com/yourusername/plan-with-senja-controller.git
+git clone https://github.com/zkazharan/plan-with-senja-controller.git
 cd plan-with-senja-controller
 ```
 
